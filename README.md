@@ -11,3 +11,6 @@
 1. Hiking
 2. Fishing
 3. Fighting a Grizzly Bear
+- Rocky Mountain Oysters
+- Colorado Style Pizza
+- Lamb
