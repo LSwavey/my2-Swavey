@@ -19,3 +19,17 @@
 
 **[page](MyStats.md)**
 
+---
+
+# Tables
+
+This table will introduce 4 different sports
+These 4 different sports are ones I recommend someone to try out.
+
+| Name of Sport | Reason of Recommendation | Average hours weekly to try |
+| --- | --- | ---: |
+| Basketball | Very fun and creative game where you can shoot your own shots and get good cardio in | 25 hours weekly |
+| Track & Field | Track events in high school brought me connections and friends while also running and getting in shape | 15 hours weekly |
+| Golf | Most people result to golf after being an athlete in high school, can play year round in most places and is fun | 40 hours weekly |
+| Football | Very competitive and hard sport | 20 hours weekly |
+
