@@ -39,7 +39,7 @@ These 4 different sports are ones I recommend someone to try out.
 
 > "If you can't explain it simply, you don't understand it well enough."
 *Albert Einstein* <br>
- "In the absence of any other proof, the thumb alone would convince me of God's existence." <br>
+ "In the absence of any other proof, the thumb alone would convince me of God's existence."
 >*Isaac Newton*
 
 
