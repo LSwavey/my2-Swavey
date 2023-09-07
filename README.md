@@ -33,3 +33,13 @@ These 4 different sports are ones I recommend someone to try out.
 | Golf | Most people result to golf after being an athlete in high school, can play year round in most places and is fun | 40 hours weekly |
 | Football | Very competitive and hard sport | 20 hours weekly |
 
+---
+
+# Pithy Quotes
+
+> "If you can't explain it simply, you don't understand it well enough."
+>> *Albert Einstein*
+>"In the absence of any other proof, the thumb alone would convince me of God's existence."
+>> *Isaac Newton*
+
+
