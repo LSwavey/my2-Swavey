@@ -23,7 +23,7 @@
 
 # Tables
 
-This table will introduce 4 different sports
+This table will introduce 4 different sports <br>
 These 4 different sports are ones I recommend someone to try out.
 
 | Name of Sport | Reason of Recommendation | Average hours weekly to try |
