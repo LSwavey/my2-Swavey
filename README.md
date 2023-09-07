@@ -42,4 +42,27 @@ These 4 different sports are ones I recommend someone to try out.
  "In the absence of any other proof, the thumb alone would convince me of God's existence."
 >*Isaac Newton*
 
+---
+
+# Code Fencing
+
+> Make text curved with SVG, HTML and CSS for a web page title
+<https://stackoverflow.com/questions/71304649/make-text-curved-with-svg-html-and-css-for-a-web-page-title>
+
+```
+<svg viewBox="0 0 500 500">
+  <path id="curve" d="M73.2,148.6c4-6.1,65.5-96.8,178.6-95.6c111.3,1.2,170.8,90.3,175.1,97" />
+  <text width="500">
+    <textPath alignment-baseline="top" xlink:href="#curve">
+      Dangerous Curves Ahead
+    </textPath>
+  </text>
+</svg>
+```
+<https://css-tricks.com/snippets/svg/curved-text-along-path/>
+
+
+
+
+
 
